@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Testing this Jekyll thing"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is via the learning lab at https://lab.github.com/
